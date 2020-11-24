@@ -1,6 +1,6 @@
 # Fashion App UI
 
-## [Watch it on YouTube](https://www.youtube.com/watch?v=xMSkjRmbRcA)
+## [Watch it on YouTube](https://www.youtube.com/watch?v=xJtKxc_tfmU)
 
 
 This design has two pages, the first one is the Home Screen, which contains two horizontal listviews for category list and the product list and curved bottom navigationbar. The second page is the Details Screen, which has all the details about the product.
